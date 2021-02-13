@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing does not get updated !
+          Docker make life easy :)
         </p>
         <a
           className="App-link"
